@@ -66,7 +66,7 @@ export default function PostMain({ post }: PostMainCompTypes) {
                             <img 
                                 className="absolute right-2 bottom-10" 
                                 width="90" 
-                                src="/images/tiktok-logo-white.png"
+                                src="/images/educa_brasil-removebg-preview.png"
                             />
                         </div>
                         
