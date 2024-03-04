@@ -169,7 +169,7 @@ export default function Upload() {
                                 <img 
                                     className="absolute right-4 bottom-6 z-20" 
                                     width="90" 
-                                    src="/images/educa_brasil1.png"
+                                    src="/images/educa_brasil.png"
                                 />
                                 <video 
                                     autoPlay
